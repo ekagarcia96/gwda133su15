@@ -1,12 +1,16 @@
 body {
 margin: 0;  
-text-align: center;
 background-color: GhostWhite;
 color: #212121;
 font-family: 'Open Sans', sans-serif;
 background-image: url(https://s3.amazonaws.com/StartupStockPhotos/uploads/39.jpg);
 background-size: cover;
 }
+
+.center-text{
+  text-align: center;
+}
+
 /*CHANGE THE COLOR OF YOUR h1 THRU CSS*/
 /*CHANGE THE FONT STACK from cssfontstacks.com OF YOUR h1 THRU CSS*/
 h1 {
