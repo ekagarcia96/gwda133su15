@@ -5,10 +5,7 @@ color: #212121;
 font-family: 'Open Sans', sans-serif;
 background-image: url(https://s3.amazonaws.com/StartupStockPhotos/uploads/39.jpg);
 background-size: cover;
-}
-
-.center-text{
-  text-align: center;
+text-align: center;
 }
 
 /*CHANGE THE COLOR OF YOUR h1 THRU CSS*/
